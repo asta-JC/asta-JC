@@ -6,10 +6,9 @@
 ### 🚀 About Me
 
 - 💻 I’m currently building **Jetpack Compose apps**
-- 🌱 Currently learning **UI/UX, problem-solving & ethical hacking**
-- 📦 My latest project: [CounterApp](https://github.com/asta-JC/CounterApp)
+- 🌱 Currently learning **UI/UX, problem-solving**
 - 📫 Reach me at: asta8nurmuhammad@gmail.com
-- 🧠 Languages I know: Kotlin, Java, a bit of Python & Bash
+- 🧠 Languages I know: Kotlin, a bit of Python
 
 ---
 
@@ -29,20 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=asta-JC&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asta-JC&layout=compact&theme=tokyonight" width="350"/>
 </p>
-
----
-
-### 📌 Featured Project
-
-🧮 [CounterApp](https://github.com/asta-JC/CounterApp) — Jetpack Compose Counter App with Dark Mode and ViewModel integration
-
----
-
-### ☕ Fun Facts
-
-- I enjoy building clean UI and responsive mobile apps
-- I’m exploring the world of **ethical hacking** safely
-- I love clean architecture and readable code 🧼
 
 ---
 
