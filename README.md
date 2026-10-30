@@ -6,6 +6,6 @@ I also know a little Python.
 
 You can reach me at [asta8nurmuhammad@gmail.com](mailto:asta8nurmuhammad@gmail.com).
 
-### Contributions · last month
+### Contributions · this month
 
-[![My GitHub contributions over the last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=asta-JC&days=31&theme=github-compact&hide_border=true&hide_title=true&area=true)](https://github.com/asta-JC?tab=overview)
+[![This month's GitHub contributions](assets/monthly-contributions.svg)](https://github.com/asta-JC?tab=overview)
