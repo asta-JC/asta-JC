@@ -5,7 +5,3 @@ I build Android apps with Kotlin and Jetpack Compose. I'm learning more about UI
 I also know a little Python.
 
 You can reach me at [asta8nurmuhammad@gmail.com](mailto:asta8nurmuhammad@gmail.com).
-
-### Contributions · this month
-
-[![This month's GitHub contributions](assets/monthly-contributions.svg)](https://github.com/asta-JC?tab=overview)
