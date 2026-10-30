@@ -1,34 +1,11 @@
-<h1 align="center">👋 Hi, I'm Nurmuhammad Ravshanov</h1>
-<p align="center">Android Developer • Kotlin Enthusiast • Jetpack Compose Explorer</p>
+# Hi, I'm Nurmuhammad
 
----
+I build Android apps with Kotlin and Jetpack Compose. I'm learning more about UI/UX and getting better at solving problems as I work on my apps.
 
-### 🚀 About Me
+I also know a little Python.
 
-- 💻 I’m currently building **Jetpack Compose apps**
-- 🌱 Currently learning **UI/UX, problem-solving**
-- 📫 Reach me at: asta8nurmuhammad@gmail.com
-- 🧠 Languages I know: Kotlin, a bit of Python
+You can reach me at [asta8nurmuhammad@gmail.com](mailto:asta8nurmuhammad@gmail.com).
 
----
+### Contributions · last month
 
-### 🛠️ Tech Stack
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asta-JC&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asta-JC&layout=compact&theme=tokyonight" width="350"/>
-</p>
-
----
-
-> ⚡ *Always building, always learning!*
+[![My GitHub contributions over the last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=asta-JC&days=31&theme=github-compact&hide_border=true&hide_title=true&area=true)](https://github.com/asta-JC?tab=overview)
